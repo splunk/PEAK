@@ -1,12 +1,12 @@
 # PEAK Model-Assisted Threat Hunting for Dictionary DGA
 
-This notebook was created in conjunction with the Splunk SURGe "Hunting for Dictionary-DGA" blog post, to demonstrate development of Model-Assisted Threat Hunting approach for detecting Dictionary-based Domain Generation Algorithms, as part of the PEAK Threat Hunting Framework. The notebook is built from the barebone_template.ipynb example workflow built into the Deep Learning and Data Science Toolkit, including how to work on custom containerized code that seamlessly interfaces with you Splunk platform. Find more examples and information in the app and on the [DSDL splunkbase page](https://splunkbase.splunk.com/app/4607/#/details).
+This notebook was created in conjunction with the Splunk SURGe "Hunting for Dictionary-DGA" blog post, to demonstrate development of Model-Assisted Threat Hunting approach for detecting Dictionary-based Domain Generation Algorithms, as part of the PEAK Threat Hunting Framework. The notebook is built from the barebone_template.ipynb example workflow built into the Deep Learning and Data Science Toolkit, including how to work on custom containerized code that seamlessly interfaces with your Splunk platform. Find more examples and information in the app and on the [DSDL splunkbase page](https://splunkbase.splunk.com/app/4607/#/details).
 
 <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2022/05/fetterman-math-conclusions.png" alt="PEAK Threat Hunting, by SURGe" style="width: 30%;">
 
 ### Pre-requisite
 
-- This notebook was built using the Splunk Deep Science and Deep Learning (DSDL) Toolkit, however it will work in any Jupter / JupyterLab environment with the correct packages and dependencies.
+- This notebook was built using the Splunk Deep Science and Deep Learning (DSDL) Toolkit, however it will work in any Jupyter / JupyterLab environment with the correct packages and dependencies.
 - The `requirements.txt` file is only necessary if running outside of a DSDL environment.
 
 ### Setup
