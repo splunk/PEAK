@@ -22,4 +22,9 @@ From the DSDL JupyterLab, use the Upload option, or drag-and-drop the downloaded
     - NOTE: Your staging command must use algo=dict_dga for the notebook to work without modification. e.g., `| fit MLTKContainer mode=stage algo=dict_dga domain into app:dict_dga`
 - Run the notebook by executing each cell (Shift + Enter), or the JupyterLab run all cells option '⏭'
 
+#### For Local Use
+- Clone the repository using `git clone git@github.com:splunk/PEAK.git`
+- Upzip `m-ath_dict_dga_model.zip`
+- Run `m-ath-dictionary-dga-pretrain-local.ipynb`
+
 
