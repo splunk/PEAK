@@ -13,7 +13,6 @@ PEAK, an acronym for "Prepare, Execute, and Act with Knowledge," brings a fresh 
 
 ### Content Organization
 
-Hunting content in this repo...
-
+Hunting content in this repo follows a flat directory structure, where a README within each directory will detail the method, and artifacts, and details of the specific hunt.
 
 <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/resources/security-strike-campaign/splunk-surge.png" alt="PEAK Threat Hunting, by SURGe" style="width: 40%;">
