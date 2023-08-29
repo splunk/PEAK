@@ -1,6 +1,6 @@
 # Welcome to PEAK Threat Hunting
 
-<div class="center-content">
+<div style="text-align: center;">
 <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/05/fetterman-peak.png" alt="PEAK Threat Hunting, by SURGe" style="width: 60%;">
 </div>
 
@@ -18,6 +18,6 @@ PEAK, an acronym for "Prepare, Execute, and Act with Knowledge," brings a fresh 
 
 Hunting content in this repo follows a flat directory structure, where a README within each directory will detail the method, and artifacts, and details of the specific hunt.
 
-<div class="center-content">
+<div style="text-align: center;">
 <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/resources/security-strike-campaign/splunk-surge.png" alt="PEAK Threat Hunting, by SURGe" style="width: 40%;">
 </div>
