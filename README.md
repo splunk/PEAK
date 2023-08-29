@@ -1,6 +1,9 @@
 # Welcome to PEAK Threat Hunting
 
-<img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/05/fetterman-peak.png" alt="PEAK Threat Hunting, by SURGe" style="width: 50%;">
+<div class="center-content">
+<img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2023/05/fetterman-peak.png" alt="PEAK Threat Hunting, by SURGe" style="width: 60%;">
+</div>
+
 
 ### Motivation
 The <a href="https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html" target="_blank"> PEAK Threat Hunting Framework</a> was developed by the SURGe Security Research team at Splunk to help defenders structure, measure, and improve their threat hunting processes. 
@@ -15,4 +18,6 @@ PEAK, an acronym for "Prepare, Execute, and Act with Knowledge," brings a fresh 
 
 Hunting content in this repo follows a flat directory structure, where a README within each directory will detail the method, and artifacts, and details of the specific hunt.
 
+<div class="center-content">
 <img src="https://www.splunk.com/content/dam/splunk2/en_us/images/resources/security-strike-campaign/splunk-surge.png" alt="PEAK Threat Hunting, by SURGe" style="width: 40%;">
+</div>
