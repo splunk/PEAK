@@ -4,6 +4,9 @@ This notebook was created in conjunction with the Splunk SURGe <a href="https://
 
 <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2022/05/fetterman-math-conclusions.png" alt="PEAK Threat Hunting, by SURGe" style="width: 30%;">
 
+###  Collab Instance
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://colab.research.google.com/drive/1zhrHBY9TxRb1R1ig7WX2xqq3WUC6Jiwg?usp=sharing)]
+
 ### Pre-requisite
 
 - This notebook was built using the Splunk Deep Science and Deep Learning (DSDL) Toolkit, however it will work in any Jupyter / JupyterLab environment with the correct packages and dependencies.
