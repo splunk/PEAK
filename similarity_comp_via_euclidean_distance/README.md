@@ -3,6 +3,8 @@
 
 <img src="img/masque.png" width='200' align='right'></img>
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zhrHBY9TxRb1R1ig7WX2xqq3WUC6Jiwg?usp=sharing)
+
 This notebook uses quantitative metrics to hunt for similarity that could suggest masquerading, via:
    - **Levenshtein similarity** between **Extension Names**,
    - **Color Moment similarity** between **Extension Icons**,
