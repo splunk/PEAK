@@ -1,5 +1,6 @@
 # Chrome Extension Similarity Explorer
 **Model-Assisted Threat Hunting** for ***masquerading Chrome Extensions*** </br>
+<a href="https://www.splunk.com/en_us/blog/author/rfetterman.html">Dr. Ryan Fetterman</a>
 
 <img src="img/masque.png" width='200' align='right'></img>
 
