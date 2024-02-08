@@ -2,6 +2,8 @@
 
 This notebook was created in conjunction with the Splunk SURGe <a href="https://www.splunk.com/en_us/blog/security/threat-hunting-for-dictionary-dga-with-peak.html" target="_blank">"Threat Hunting for Dictionary-DGA"</a> blog post, to demonstrate development of Model-Assisted Threat Hunting approach for detecting Dictionary-based Domain Generation Algorithms, as part of the PEAK Threat Hunting Framework. Two notebooks are provided: `m-ath-dictionary-dga-pretrain_dsdl.ipynb` for use in the the Splunk Deep Science and Deep Learning (DSDL) Toolkit, or `m-ath-dictionary-dga-pretrain_local.ipynb`, for stand-alone use.
 
+<a href="https://www.splunk.com/en_us/blog/author/rfetterman.html">Dr. Ryan Fetterman</a>
+
 <img src="https://www.splunk.com/content/dam/splunk-blogs/images/en_us/2022/05/fetterman-math-conclusions.png" alt="PEAK Threat Hunting, by SURGe" style="width: 30%;">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zhrHBY9TxRb1R1ig7WX2xqq3WUC6Jiwg?usp=sharing)
